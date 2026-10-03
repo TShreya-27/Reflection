@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# .NET build output
+bin/
+obj/
+
+# Generated activity data
+activity.db
+activity.csv
